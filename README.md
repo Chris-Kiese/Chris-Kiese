@@ -1,6 +1,6 @@
 ### Hey there I'm Chris 👋
-- 🔭 I’m currently working on getting my first App to the Play Store
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on getting my first flutter App to the Play Store
+- 🌱 I’m working as full stack javascript developer
 - ⚡ Fun fact: I love reading Manga/Mahnwa
 
 
